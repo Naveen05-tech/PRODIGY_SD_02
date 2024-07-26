@@ -20,7 +20,7 @@ The Number Guessing Game is a simple Python GUI application built using Tkinter.
 1. Ensure you have Python installed on your system. You can download Python from python.org.
 2. Clone this repository or download the source code.
 
-   git clone https://github.com/Santhoshcoder001/PRODIGY_SD_02.git
+   git clone https://github.com/Naveen05-tech/PRODIGY_SD_02.git
 
    navigate to the project directory
    cd PRODIGY_SD_02
